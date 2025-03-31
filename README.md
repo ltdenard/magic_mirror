@@ -1,12 +1,53 @@
-# install Raspbian GNU/Linux 10 (buster) lite
-# install stuff
+# 🪞 Magic Mirror on Raspberry Pi
+
+This project is a custom-built **Magic Mirror** running on a **Raspberry Pi**, using a **stripped-down LCD monitor** placed behind a **one-way mirror glass**. It's a sleek and nerdy smart display for your wall, desk, or lab—displaying real-time info in a minimalist aesthetic.
+
+---
+
+![Magic Mirror Screenshot](img/magic_mirror.png)
+
+---
+
+## 🧠 Features
+
+This Magic Mirror displays:
+
+- 🕒 **Current Time & Date**
+- ☁️ **Live Weather** (temperature, condition, humidity, etc.)
+- 🌬️ **Wind Speed & Direction**
+- 📉 **Barometric Pressure**
+- 🌙 **Moon Phase**
+- 📅 **Upcoming Holidays**
+- 💻 **BOFH Excuses** (because why not?)
+
+All of this is presented in a clean, always-on dashboard behind a one-way mirror, making it look like information is floating right in the glass.
+
+---
+
+## 🧰 Hardware
+
+- **Raspberry Pi** (any model that supports your screen and Wi-Fi should work)
+- **LCD Monitor** (gutted from its casing)
+- **One-Way Mirror Glass** (also called a spy mirror)
+- **Frame** or Enclosure (custom or repurposed picture frame)
+- **Power Supply** (for Pi and monitor)
+
+Optional but recommended:
+- **Wi-Fi Dongle** (if Pi doesn’t have Wi-Fi)
+
+---
+
+## 🔧 Setup
+
+# Install Raspbian GNU/Linux 10 (buster) lite because this is **REALLY** old Raspberry Pi.
+# Install API Packages
 ```
 sudo apt install -y nginx-full git python3-venv chromium-browser xserver-xorg x11-xserver-utils xinit openbox fortunes-bofh-excuses
 ```
 
 # git clone
 ```
-git clone URL
+git clone https://github.com/ltdenard/magic_mirror.git
 ```
 
 # copy contents of autostart file to 
