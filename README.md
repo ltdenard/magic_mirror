@@ -78,7 +78,7 @@ sudo chmod -R 755 /var/www/html/
 ### update config.js
 ### Generate an API key for weather api [here](https://www.weatherapi.com/).
 ### Generate an API key from google cloud console [here](https://console.cloud.google.com). You'll also need to enable the Google Calendar API.
-### NOTE: this is insecure way of doing api keys, but since it's just a webserver hosted for a local system dashboard, we're doing this to keep complexity low.
+### NOTE: this is an insecure way of doing api keys, but since it's just a webserver hosted for a local system dashboard, we're doing this to keep complexity low.
 ```
 echo 'var API_KEY = "WEATHERAPIKEY";' | sudo tee /var/www/html/js/config.js
 echo 'var ZIP_CODE = "ZIPCODEHERE";' | sudo tee /var/www/html/js/config.js
