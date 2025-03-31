@@ -1,0 +1,40 @@
+@font-face {
+	font-family: "Miscicon";
+	src: url("../font/miscicon.eot");
+	src: url("../font/miscicon.eot#iefix") format("embedded-opentype"),
+	url("../font/miscicon.woff") format("woff"),
+	url("../font/miscicon.ttf") format("truetype"),
+	url("../font/miscicon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="miscicon-"]:before, [class*=" miscicon-"]:before,
+[class^="miscicon-"]:after, [class*=" miscicon-"]:after {   
+	font-family: miscicon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.miscicon-arrow483:before {
+	content: "\e000";
+	margin-left: 1px;
+}
+.miscicon-eye46:before {
+	content: "\e001";
+}
+.miscicon-navigate6:before {
+	content: "\e002";
+	margin-left: 1px;
+}
+.miscicon-percentage2:before {
+	content: "\e003";
+	margin-left: 1px;
+}
+.miscicon-thermometer41:before {
+	content: "\e004";
+}
+.miscicon-water-drop:before {
+	content: "\e005";
+}
+.miscicon-windy1:before {
+	content: "\e006";
+}

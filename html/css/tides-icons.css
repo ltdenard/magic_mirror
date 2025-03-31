@@ -1,0 +1,22 @@
+@font-face {
+	font-family: "Tidesicon";
+	src: url("../font/tides.eot");
+	src: url("../font/tides.eot#iefix") format("embedded-opentype"),
+	url("../font/tides.woff") format("woff"),
+	url("../font/tides.ttf") format("truetype"),
+	url("../font/tides.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="tidesicon-"]:before, [class*=" tidesicon-"]:before,
+[class^="tidesicon-"]:after, [class*=" tidesicon-"]:after {   
+	font-family: tidesicon;
+        font-size: 20px;
+	font-style: normal;
+	margin-left: 20px;
+}.tidesicon-ocean:before {
+	content: "\e000";
+}
+.tidesicon-sea5:before {
+	content: "\e001";
+}

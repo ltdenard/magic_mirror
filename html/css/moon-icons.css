@@ -1,0 +1,98 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url('../font/flaticon.eot');
+	src: url('../font/flaticon.eot#iefix') format('embedded-opentype'),
+	url('../font/flaticon.woff') format('woff'),
+	url('../font/flaticon.ttf') format('truetype'),
+	url('../font/flaticon.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 120px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-half21:before {
+	content: "\e000";
+}
+.flaticon-moon100:before {
+	content: "\e001";
+}
+.flaticon-moon101:before {
+	content: "\e002";
+}
+.flaticon-moon102:before {
+	content: "\e003";
+}
+.flaticon-moon103:before {
+	content: "\e004";
+}
+.flaticon-moon104:before {
+	content: "\e005";
+}
+.flaticon-moon105:before {
+	content: "\e006";
+}
+.flaticon-moon106:before {
+	content: "\e007";
+}
+.flaticon-moon107:before {
+	content: "\e008";
+}
+.flaticon-moon108:before {
+	content: "\e009";
+}
+.flaticon-moon109:before {
+	content: "\e00a";
+}
+.flaticon-moon110:before {
+	content: "\e00b";
+}
+.flaticon-moon111:before {
+	content: "\e00c";
+}
+.flaticon-moon112:before {
+	content: "\e00d";
+}
+.flaticon-moon113:before {
+	content: "\e00e";
+}
+.flaticon-moon90:before {
+	content: "\e00f";
+}
+.flaticon-moon91:before {
+	content: "\e010";
+}
+.flaticon-moon92:before {
+	content: "\e011";
+}
+.flaticon-moon93:before {
+	content: "\e012";
+}
+.flaticon-moon94:before {
+	content: "\e013";
+}
+.flaticon-moon95:before {
+	content: "\e014";
+}
+.flaticon-moon96:before {
+	content: "\e015";
+}
+.flaticon-moon97:before {
+	content: "\e016";
+}
+.flaticon-moon98:before {
+	content: "\e017";
+}
+.flaticon-moon99:before {
+	content: "\e018";
+}
+.flaticon-new41:before {
+	content: "\e019";
+}
+.flaticon-new42:before {
+	content: "\e01a";
+}
+
