@@ -237,8 +237,7 @@ BOFH excuse #236: Fanout dropping voltage too much, try cutting some of those li
 BOFH excuse #237: Plate voltage too low on demodulator tube
 BOFH excuse #238: You did wha... oh _dear_....
 BOFH excuse #239: CPU needs bearings repacked
-BOFH excuse #240: Too many little pins on CPU confusing it, bend back and forth until 10-20
-are neatly removed. Do _not_ leave metal bits visible!
+BOFH excuse #240: Too many little pins on CPU confusing it, bend back and forth until 10-20 are neatly removed. Do _not_ leave metal bits visible!
 BOFH excuse #241: _Rosin_ core solder? But...
 BOFH excuse #242: Software uses US measurements, but the OS is in metric...
 BOFH excuse #243: The computer fleetly, mouse and all.
@@ -332,8 +331,7 @@ BOFH excuse #330: quantum decoherence
 BOFH excuse #331: those damn raccoons!
 BOFH excuse #332: suboptimal routing experience
 BOFH excuse #333: A plumber is needed, the network drain is clogged
-BOFH excuse #334: 50
-of the manual is in .pdf readme files
+BOFH excuse #334: 50% of the manual is in .pdf readme files
 BOFH excuse #335: the AA battery in the wallclock sends magnetic interference
 BOFH excuse #336: the xy axis in the trackball is coordinated with the summer solstice
 BOFH excuse #337: the butane lighter causes the pincushioning
@@ -398,8 +396,7 @@ BOFH excuse #395: Redundant ACLs.
 BOFH excuse #396: Mail server hit by UniSpammer.
 BOFH excuse #397: T-1's congested due to porn traffic to the news server.
 BOFH excuse #398: Data for intranet got routed through the extranet and landed on the internet.
-BOFH excuse #399: We are a 100
-Microsoft Shop.
+BOFH excuse #399: We are a 100% Microsoft Shop.
 BOFH excuse #400: We are Microsoft.  What you are experiencing is not a problem; it is an undocumented feature.
 BOFH excuse #401: Sales staff sold a product we don't offer.
 BOFH excuse #402: Secretary sent chain letter to all 5000 employees.
@@ -454,4 +451,3 @@ BOFH excuse #450: Terrorists crashed an airplane into the server room, have to r
 BOFH excuse #451: astropneumatic oscillations in the water-cooling
 BOFH excuse #452: Somebody ran the operating system through a spelling checker.
 BOFH excuse #453: Spider infestation in warm case parts
-
